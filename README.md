@@ -2,11 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=Felix&fontColor=e6edf3&fontSize=56&fontAlignY=36&desc=Embedded%20Software%20Engineer&descSize=18&descAlignY=58" width="100%" alt="Felix · Embedded Software Engineer" />
 
-**Communication protocols on microcontrollers · Software-defined radio · RF hardware**
+**Embedded software for microcontrollers · Software-defined radio · RF hardware**
 
-Heidelberg, Germany &nbsp;·&nbsp; Amateur radio callsign DM5LF
+Heidelberg, Germany
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felix-langer-2b350122b/)
+[![QRZ](https://img.shields.io/badge/QRZ-DM5LF-b45309?style=for-the-badge)](https://www.qrz.com/db/DM5LF)
 
 </div>
 
@@ -14,7 +15,7 @@ Heidelberg, Germany &nbsp;·&nbsp; Amateur radio callsign DM5LF
 
 ## About
 
-I implement communication protocols on microcontrollers, from firmware to system-level verification with real measurement hardware. Before that I was an application engineer for analog ICs and PCB design, so I start with the datasheet and the physical layer.
+I develop embedded software for microcontrollers, from low-level firmware to system-level verification with real measurement hardware. Before that I was an application engineer for analog ICs and PCB design, so I start with the datasheet and the physical layer.
 
 In my spare time I build software-defined radios and take digital radio protocols apart.
 
@@ -83,7 +84,7 @@ In my spare time I build software-defined radios and take digital radio protocol
   <tr>
     <td width="50%" valign="top">
       <h4>Software-defined radio</h4>
-      Real-time signal processing in Rust, from raw IQ samples to decoded data.
+      Real-time signal processing, from raw IQ samples to decoded data.
     </td>
     <td width="50%" valign="top">
       <h4>Digital voice and data modes</h4>
@@ -98,8 +99,20 @@ In my spare time I build software-defined radios and take digital radio protocol
       Bare-metal C on ARM Cortex-M, VHDL on FPGAs, test setups for embedded targets.
     </td>
     <td width="50%" valign="top">
+      <h4>RTOS</h4>
+      Real-time firmware with Zephyr on ARM Cortex-M.
+    </td>
+  </tr>
+  </tbody>
+  <tbody>
+  <tr>
+    <td width="50%" valign="top">
       <h4>RF hardware</h4>
       Design and measurement of filters, amplifiers and antennas.
+    </td>
+    <td width="50%" valign="top">
+      <h4>PCB layout</h4>
+      Multi-layer boards in KiCad and Altium Designer.
     </td>
   </tr>
   </tbody>
